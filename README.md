@@ -1,2 +1,2 @@
 # lab_01
-Primera entrega para la asignatura de Machine Learning
+En este repositorio se incluirá la codumentación pertinente de la primera entrega de esta asignatura.
